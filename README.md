@@ -1,2 +1,2 @@
-# aoc
-Advent of Code Repo
+# Advent of Code
+https://adventofcode.com/
